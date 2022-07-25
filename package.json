@@ -1,5 +1,5 @@
 {
-  "name": "word-api",
+  "name": "project-fastify-x",
   "packageManager": "yarn@3.2.2",
   "type": "module",
   "devDependencies": {

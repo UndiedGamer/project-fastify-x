@@ -1,1 +1,1 @@
-# word-api
+# project-fastify-x
