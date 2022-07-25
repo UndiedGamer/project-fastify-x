@@ -1,0 +1,16 @@
+{
+	"extends": "@sapphire/ts-config/extra-strict-without-decorators",
+	"compilerOptions": {
+		"experimentalDecorators": true,
+		"allowJs": true,
+		"outDir": "../types",
+		"rootDir": ".",
+		"skipLibCheck": true,
+		"composite": false,
+		"module": "es2022",
+		"emitDeclarationOnly": true,
+		"tsBuildInfoFile": ".tsbuildinfo"
+	},
+	"include": ["."],
+	"exclude": ["./tsconfig.json"]
+}
